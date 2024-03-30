@@ -1,0 +1,34 @@
+{
+  "name": "exnecessitatibus",
+  "version": "1.0.0",
+  "description": "json pointer - failsafe data retrieval on js and json objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MayeSchuppe/exnecessitatibus.git"
+  },
+  "pre-push": [
+    "test"
+  ],
+  "keywords": [
+    "json-pointer",
+    "aut",
+    "sit",
+    "rerum",
+    "mollitia"
+  ],
+  "author": "DexterKonopelski",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.1.2",
+    "nyc": "^11.3.0",
+    "pre-push": "^0.1.1",
+    "watch": "^1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/MayeSchuppe/exnecessitatibus.git/issues"
+  },
+  "homepage": "https://github.com/MayeSchuppe/exnecessitatibus.git"
+}
